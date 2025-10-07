@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sakthiv5",
+  "repo": "container-u2bwdve",
+  "name": "sakthiv5",
+  "email": "sakthiragunathan@gmail.com",
+}
